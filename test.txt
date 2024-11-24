@@ -1,2 +1,2 @@
-$n =11
-echo n
+$m =11
+echo m
